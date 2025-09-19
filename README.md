@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 종강 마렵네
 
 <!--
 **miceadf/miceadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
